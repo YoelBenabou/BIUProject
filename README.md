@@ -9,6 +9,9 @@ Please be sure the name of the file is input.zip.
 
 - **WESAD folder**: The WESAD dataset.
 
+## Pkl files
+Inside the input/WESAD/S{i} folders you have to unzip the pkl files and extract them if you want to perform the training step.
+
 ## Graphs folder
 
 This folder contains some graphs from the training step.
